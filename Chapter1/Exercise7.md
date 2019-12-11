@@ -17,10 +17,10 @@ Remember, = in Python means assignment, it doesn't te
 ### Solutions
 <section>
     <pre><code>
-    #Create a variable savings
-savings=100
+#Create a variable savings
+    savings=100
 
-    #Print out savings
-print(savings)
+#Print out savings
+    print(savings)
     </code></pre>
 </section>
