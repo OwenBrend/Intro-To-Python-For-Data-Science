@@ -15,10 +15,9 @@ You can also use the IPython Shell interactively by simply typing commands and h
 ### Solutions
 <section>
     <pre><code>
-    # Example, do not modify!
+    -- Example, do not modify!
 print(5 / 8)
-
-# Put code below here
+    -- Put code below here
 print(7+10)
     </code></pre>
 </section>
